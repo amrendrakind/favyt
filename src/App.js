@@ -4,12 +4,12 @@ import Product from './frontend/template/Product';
 import Footer from './frontend/template/Footer';
 function App() {
   return (
-      <div > 
-        <Header />
-        <Product />
-        <Footer />
-      </div>
-    );
+    <div >
+      <Header />
+      <Product />
+      <Footer />
+    </div>
+  );
 }
 
 export default App;
