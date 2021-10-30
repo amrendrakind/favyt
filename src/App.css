@@ -4,7 +4,7 @@ html{
 }  
 body{
   margin: 0;
-  height: 100vh;
+  height: 90vh;
   font-size: 1.6rem;
   font-family: Helvetica, Arial,sans-serif;
 }
@@ -41,19 +41,9 @@ body{
   height: 100%;
 
 }
-header{
-  grid-area: header;
-  background-color: #203040;
-}
 main{
   grid-area:  main;
   padding: 1rem;
-}
-
-footer{
-  grid-area:  footer;
-  background-color: #203040;
-  color: #FFFFFF;
 }
 
 

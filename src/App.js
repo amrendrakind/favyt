@@ -5,9 +5,9 @@ import Footer from './frontend/template/Footer';
 function App() {
   return (
       <div > 
-        {/* <Header className="header" /> */}
-        <Product className="main"/>
-        {/* <Footer className="footer"/> */}
+        <Header />
+        <Product />
+        <Footer />
       </div>
     );
 }

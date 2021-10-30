@@ -2,7 +2,7 @@ import React from "react";
 import './Header.css'
  const Header =()=>{
     return (
-        <div >
+        <div className="header">
             <div>
                 <a href = "index.html">Favyt</a>
             </div>

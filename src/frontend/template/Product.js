@@ -1,10 +1,10 @@
 import React from "react";
-import './Main.css'
+import './Product.css'
 const Product = ()=>{
     return (
         <body>
     <div class="grid-container">
-        <header>
+        {/* <header>
             <div>
                 <a href="index.html">Favyt</a>
             </div>
@@ -12,7 +12,7 @@ const Product = ()=>{
                 <a href="cart.html">Cart</a>
                 <a href="signin">Sign In</a>
             </div>  
-        </header>
+        </header> */}
         <main>
             <ul>
                 <li>Product 1</li>
@@ -21,7 +21,7 @@ const Product = ()=>{
                 <li>Product 4</li>
             </ul>
         </main>
-        <footer>All right reserved</footer>
+        {/* <footer>All right reserved</footer> */}
     </div>
     
 </body>
