@@ -1,25 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
-
+import Header from './frontend/template/Header';
+import Product from './frontend/template/Product';
+import Footer from './frontend/template/Footer';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          This page belongs to Favyt: Your Favorite Collections!!
-        </p>
-        <a
-          className="App-link"
-          href="www.favyt.in"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Favyt
-        </a>
-      </header>
-    </div>
-  );
+      <div > 
+        {/* <Header className="header" />
+        <Product className="main"/>
+        <Footer className="footer"/> */}
+      </div>
+    );
 }
 
 export default App;

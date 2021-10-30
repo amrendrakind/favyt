@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  font-size: 65.5%;
+  box-sizing: border-box;
 }
 
 .App-logo {
@@ -14,15 +15,41 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin: 0;
+  height: 100vh;
+  font-size: 1.6rem;
+  font-family: Helvetica, Arial,sans-serif;
 }
+
+.grid-container{
+  font-size: 65.5%;
+  box-sizing: border-box;
+  margin: 0;
+  height: 100vh;
+  font-size: 1.6rem;
+  font-family: Helvetica, Arial,sans-serif;
+  display: grid;
+  grid-template-areas: 
+  'header'
+  'main'
+  'footer';
+}
+header{
+  grid-area: header;
+  background-color: #203040;
+}
+main{
+  grid-area:  main;
+  padding: 1rem;
+}
+
+footer{
+  grid-area:  footer;
+  background-color: #203040;
+  color: #FFFFFF;
+}
+
+
 
 .App-link {
   color: #61dafb;
