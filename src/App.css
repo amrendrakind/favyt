@@ -1,3 +1,14 @@
+html{
+  font-size: 62.5%;
+  box-sizing: border-box;
+}  
+body{
+  margin: 0;
+  height: 100vh;
+  font-size: 1.6rem;
+  font-family: Helvetica, Arial,sans-serif;
+}
+
 .App {
   font-size: 65.5%;
   box-sizing: border-box;
@@ -15,10 +26,8 @@
 }
 
 .App-header {
-  margin: 0;
-  height: 100vh;
-  font-size: 1.6rem;
-  font-family: Helvetica, Arial,sans-serif;
+  font-size: 62.5%;
+  box-sizing: border-box;
 }
 
 .grid-container{
