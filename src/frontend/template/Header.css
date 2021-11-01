@@ -2,4 +2,14 @@
     grid-area: header;
     background-color: #203040;
   }
-  
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: #ff8000;
+}
+a.brand{
+  color: #ffffff;
+  font-size: 3rem;
+  font-weight: bold ;
+}
