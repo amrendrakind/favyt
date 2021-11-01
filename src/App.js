@@ -5,7 +5,7 @@ import Footer from './frontend/template/Footer';
 function App() {
   return (
     <div >
-      {/* <h2>Welcome to Our WebPage!!!</h2> */}
+      <h2>Welcome to Our WebPage!</h2>
       <Header />
       <Product />
       <Footer />
