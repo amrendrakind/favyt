@@ -1,6 +1,7 @@
 header{
     grid-area: header;
     background-color: #203040;
+    
   }
 a{
   text-decoration: none;
@@ -12,4 +13,14 @@ a.brand{
   color: #ffffff;
   font-size: 3rem;
   font-weight: bold ;
+}
+.row{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+header a{
+  color: #ffffff;
+  padding: 1rem;
 }
