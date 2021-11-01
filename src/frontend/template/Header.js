@@ -4,8 +4,8 @@ const Header = () => {
     return (
         <header>
             <div className="row">
-                <div>
-                    <a href="index.html">Favyt</a>
+                <div >
+                    <a className="brand" href="index.html">Favyt</a>
                 </div>
                 <div>
                     <a href="cart.html">Cart</a>
