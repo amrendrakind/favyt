@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/favyt/static/css/main.ed69bda9.chunk.css",
-    "main.js": "/favyt/static/js/main.1d1137ed.chunk.js",
-    "main.js.map": "/favyt/static/js/main.1d1137ed.chunk.js.map",
+    "main.css": "/favyt/static/css/main.f4a5a532.chunk.css",
+    "main.js": "/favyt/static/js/main.233dd6ed.chunk.js",
+    "main.js.map": "/favyt/static/js/main.233dd6ed.chunk.js.map",
     "runtime-main.js": "/favyt/static/js/runtime-main.f16fcee8.js",
     "runtime-main.js.map": "/favyt/static/js/runtime-main.f16fcee8.js.map",
     "static/js/2.b6ea38f4.chunk.js": "/favyt/static/js/2.b6ea38f4.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.40501b52.chunk.js": "/favyt/static/js/3.40501b52.chunk.js",
     "static/js/3.40501b52.chunk.js.map": "/favyt/static/js/3.40501b52.chunk.js.map",
     "index.html": "/favyt/index.html",
-    "static/css/main.ed69bda9.chunk.css.map": "/favyt/static/css/main.ed69bda9.chunk.css.map",
+    "static/css/main.f4a5a532.chunk.css.map": "/favyt/static/css/main.f4a5a532.chunk.css.map",
     "static/js/2.b6ea38f4.chunk.js.LICENSE.txt": "/favyt/static/js/2.b6ea38f4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f16fcee8.js",
     "static/js/2.b6ea38f4.chunk.js",
-    "static/css/main.ed69bda9.chunk.css",
-    "static/js/main.1d1137ed.chunk.js"
+    "static/css/main.f4a5a532.chunk.css",
+    "static/js/main.233dd6ed.chunk.js"
   ]
 }
