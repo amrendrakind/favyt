@@ -4,7 +4,12 @@ const Product = () => {
     return (
         <body>
             <div class="grid-container">
-                <ProductCard />
+                <div className="row center">
+                    <ProductCard />
+                    <ProductCard />
+                    <ProductCard />
+                    <ProductCard />
+                </div>
             </div>
         </body>
     )

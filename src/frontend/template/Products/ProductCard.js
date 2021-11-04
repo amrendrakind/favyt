@@ -11,7 +11,7 @@ const ProductCard = () => {
     return (
         <div>
             <main>
-                <div className="row center">
+                
                     <div className="card">
                         <a href="product.html">
                             <img className="medium" src={image1} alt="image1" />
@@ -33,7 +33,7 @@ const ProductCard = () => {
                         </div>
                         <div className="price">Price:Rs780/-</div>
                     </div>
-                </div>
+                
             </main>
 
         </div>
