@@ -10,7 +10,7 @@ import image4 from '../../imagedata/Catergory_B_2.jpeg'
 const ProductCard = () => {
     return (
         <div>
-            <main>
+            {/* <main> */}
                 
                     <div className="card">
                         <a href="product.html">
@@ -33,8 +33,7 @@ const ProductCard = () => {
                         </div>
                         <div className="price">Price:Rs780/-</div>
                     </div>
-                
-            </main>
+            {/* </main> */}
 
         </div>
     )
