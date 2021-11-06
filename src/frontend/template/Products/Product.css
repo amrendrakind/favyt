@@ -3,10 +3,19 @@
     padding: 1rem;
   }
 .row{
-
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
 }
-.center{
-  
+.row.center{
+  justify-content: center;
+}
+.row.top{
+  align-items: flex-start;
+}
+.row.start{
+  justify-content: flex-start;
 }
 img{
   border-radius: 0.5rem;
