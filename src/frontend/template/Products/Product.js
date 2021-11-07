@@ -9,9 +9,7 @@ const Product = () => {
                     <ProductCard />
                     <ProductCard />
                     <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
+                    
                 </div>
             </div>
         </body>
